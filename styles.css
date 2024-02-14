@@ -1,0 +1,28 @@
+h1 {
+    font-size: 4em;
+    color: rgb(247, 14, 227);
+}
+
+h1  {
+    font-family: "Baskerville", serif;
+}
+h1  {
+    box-shadow: 2px 2px 4px rgba(202, 156, 191, 0.993);
+}
+
+h2 {
+    font-size: 2em;
+    color: rgb(192, 132, 177);
+}
+
+h2  {
+    font-family: "Arial", sans-serif;
+}
+
+
+
+body {
+    background-color: lightgray;
+}
+
+PX die Angabe der der Grösse in pixel 
